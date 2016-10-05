@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\bin\Debug\Abis.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\bin\Debug\Abis.exe
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\bin\Debug\Abis.pdb
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\bin\Debug\RabbitMQ.Client.dll
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\bin\Debug\RabbitMQ.Client.xml
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\obj\Debug\Abis.exe
+c:\users\user\documents\visual studio 2015\Projects\Abis\Abis\obj\Debug\Abis.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Abis\obj\Debug\Abis.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\rabbitmq-topic-exchange-example\Abis\bin\Debug\Abis.exe.config
+C:\Users\user\Desktop\rabbitmq-topic-exchange-example\Abis\obj\Debug\Abis.exe
+C:\Users\user\Desktop\rabbitmq-topic-exchange-example\Abis\obj\Debug\Abis.pdb

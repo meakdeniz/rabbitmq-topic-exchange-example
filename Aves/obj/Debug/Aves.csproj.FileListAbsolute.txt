@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\bin\Debug\Aves.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\bin\Debug\Aves.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\bin\Debug\Aves.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\bin\Debug\RabbitMQ.Client.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\bin\Debug\RabbitMQ.Client.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\obj\Debug\Aves.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\obj\Debug\Aves.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Aves\obj\Debug\Aves.csprojResolveAssemblyReference.cache

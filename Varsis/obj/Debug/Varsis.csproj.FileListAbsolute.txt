@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\bin\Debug\Varsis.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\bin\Debug\Varsis.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\bin\Debug\Varsis.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\bin\Debug\RabbitMQ.Client.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\bin\Debug\RabbitMQ.Client.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\obj\Debug\Varsis.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\obj\Debug\Varsis.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Abis\Varsis\obj\Debug\Varsis.pdb

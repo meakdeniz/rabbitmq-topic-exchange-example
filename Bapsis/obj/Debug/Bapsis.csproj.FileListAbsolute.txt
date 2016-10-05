@@ -1,0 +1,8 @@
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\bin\Debug\Bapsis.exe.config
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\obj\Debug\Bapsis.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\bin\Debug\Bapsis.exe
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\bin\Debug\Bapsis.pdb
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\bin\Debug\RabbitMQ.Client.dll
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\bin\Debug\RabbitMQ.Client.xml
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\obj\Debug\Bapsis.exe
+c:\Users\user\documents\visual studio 2015\Projects\Abis\Bapsis\obj\Debug\Bapsis.pdb
